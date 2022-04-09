@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/N17R0-HACKERS/DogeBot3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/botkurucu/DogeBot3/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -33,17 +33,17 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/N17R0-HACKERS/DogeBot3/blob/master/session.json#L1)
+[`Click Here`](https://github.com/botkurucu/DogeBot3/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/N17R0-HACKERS/DogeBot3/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/N17R0-HACKERS/DogeBot3/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/botkurucu/DogeBot3/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/botkurucu/DogeBot3/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/N17R0-HACKERS/DogeBot3
+🦄 git clone https://github.com/botkurucu/DogeBot3
 🦄 cd DogeBot3
 🦄 npm start
 ```
@@ -60,7 +60,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/N17R0-HACKERS/DogeBot3
+🦄 git clone https://github.com/botkurucu/DogeBot3
 🦄 cd DogeBot3
 🦄 npm install
 🦄 rm session.json
@@ -71,15 +71,15 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+918591220868"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+905379649077"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/IqJRUxsCGroFjNRHuuGA8Z"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/BdToKwhnh396JUuKGDxLEe"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCWkuaSLdqY6CNi0JNFmAfdA)
+* [`My Youtube Channel`](https://youtube.com/channel/UCZR_YwxbbQWce36GaQkGmSg)
 
 # Thanks To
-* [`WHOAMI`](https://github.com/N17R0-HACKERS)
+* [`WHOAMI`](https://github.com/botkurucu)
